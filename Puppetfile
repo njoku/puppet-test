@@ -1,1 +1,1 @@
-../puppetfile-development/Puppetfile
+/etc/puppetlabs/puppet/environments/puppetfile_development/Puppetfile
